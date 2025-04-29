@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arshshaikh (The owner of ash_agenticAI
+- 👋 Hi, I’m @arshshaikh (The owner of ash_agenticAI)
 - 👀 I’m interested in Automating task via n8n workflow and jyupter notebook.
 - 🌱 I’m currently learning n8n Workflow.
 - 💞️ I’m looking to collaborate on agenticAI workflow in healthcare domin , DEVOPS
